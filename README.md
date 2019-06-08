@@ -1,4 +1,5 @@
-# aws
+# aws IoT Core Instructions:
+
 Download the Publisher.txt.
 Edit the fields like keyPath, certPath, caPath, host, and region. 
 Save this file as javascript extention (.js) in the same directory where u previously installed AWS IoT SDK for JavaScript.
